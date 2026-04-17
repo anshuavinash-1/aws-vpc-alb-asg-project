@@ -48,25 +48,30 @@ The application is accessible through the load balancer DNS. Traffic is distribu
 ## Screenshots
 
 ### VPC Setup
-![VPC](vpc.png)
+![VPC](vpc.jpeg)<img width="2932" height="1564" alt="vpc" src="https://github.com/user-attachments/assets/5c017a1b-2cc2-4c50-9b21-5ba45a1decf2" />
+
 
 ### Route Table
 ![Route Table](route-table.png)
 
 ### NAT Gateway
-![NAT](nat.png)
+![NAT](nat.jpeg)<img width="1600" height="945" alt="nat" src="https://github.com/user-attachments/assets/1197948c-93e8-4873-bca2-37b48b2a8118" />
+
 
 ### Target Group
-![Target Group](target-group.png)
+![Target Group](target-group.png)<img width="1600" height="918" alt="target-group" src="https://github.com/user-attachments/assets/26f2370b-6ebd-4e35-87aa-12ab5eb47222" />
+
 
 ### Load Balancer
-![ALB](alb.png)
+![ALB](alb.jpeg)<img width="1024" height="616" alt="alb" src="https://github.com/user-attachments/assets/c3ba4130-7cb3-4d6c-ac2c-d7a8a97a33bd" />
+
 
 ### Auto Scaling Group
 ![ASG](asg.png)
 
 ### Final Output
-![Output](final-output.png)
+![Output](final-output.jpeg) <img width="1122" height="242" alt="final-output" src="https://github.com/user-attachments/assets/a8e8d276-5e85-4184-8675-d988d21ddcc8" />
+
 
 # Learning Outcomes
 - Understanding of VPC and subnet design
